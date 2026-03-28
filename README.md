@@ -1,3 +1,3 @@
 # VibeCheck
 
-VibeCheck is a text emotion analysis project that detects the dominant emotion in user input using a trained TF-IDF + Logistic Regression model. It includes a clean multi-section interface where users can paste text, run analysis, and view confidence scores across six emotions: Sadness, Joy, Love, Anger, Fear, and Surprise.
+VibeCheck is a text emotion analysis app that predicts the dominant emotion in user input using a trained transformer-based text classification model. It features a clean, multi-section interface where users can paste text, run analysis, and review confidence scores across six emotions: sadness, joy, love, anger, fear, and surprise.
